@@ -1,0 +1,109 @@
+Cost_Center,Item,Standard_Rate,Actual_Rate,Standard_Hours_Units,Actual_Hours_Units
+Assembly Line A,Direct Labor,25.0,25.58,983.28,1064.54
+Assembly Line A,Direct Labor,25.0,26.7,966.67,1082.34
+Assembly Line A,Direct Labor,25.0,25.86,1024.15,1068.48
+Assembly Line A,Direct Labor,25.0,27.99,1025.24,1103.92
+Assembly Line A,Direct Labor,25.0,27.06,964.31,917.19
+Assembly Line A,Direct Labor,25.0,26.78,999.4,1088.0
+Assembly Line A,Direct Labor,25.0,24.19,1003.65,998.33
+Assembly Line A,Direct Labor,25.0,25.69,1010.4,1036.23
+Assembly Line A,Direct Labor,25.0,26.04,998.64,1000.87
+Assembly Line A,Direct Labor,25.0,27.03,951.22,998.41
+Assembly Line A,Direct Labor,25.0,26.15,1021.62,1072.45
+Assembly Line A,Direct Labor,25.0,27.26,1045.91,1030.88
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,148.3,297.71,289.37
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,158.18,312.36,291.98
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,145.07,292.68,316.54
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,157.62,288.07,325.43
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,162.65,285.69,303.64
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,162.17,296.23,271.71
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,144.47,288.13,319.85
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,165.72,288.68,276.84
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,146.72,290.59,322.37
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,150.97,294.34,281.64
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,158.0,296.38,321.89
+Assembly Line A,Raw Materials (Steel/Alloy),150.0,147.74,308.63,324.35
+Assembly Line A,Machine Maintenance,75.0,72.71,148.72,165.95
+Assembly Line A,Machine Maintenance,75.0,83.02,149.49,152.51
+Assembly Line A,Machine Maintenance,75.0,82.96,151.31,137.42
+Assembly Line A,Machine Maintenance,75.0,82.89,146.22,152.72
+Assembly Line A,Machine Maintenance,75.0,73.36,143.01,139.84
+Assembly Line A,Machine Maintenance,75.0,81.2,146.66,140.07
+Assembly Line A,Machine Maintenance,75.0,73.96,150.23,171.84
+Assembly Line A,Machine Maintenance,75.0,77.1,150.86,168.23
+Assembly Line A,Machine Maintenance,75.0,78.07,145.27,141.62
+Assembly Line A,Machine Maintenance,75.0,75.2,148.46,149.45
+Assembly Line A,Machine Maintenance,75.0,81.45,147.74,150.26
+Assembly Line A,Machine Maintenance,75.0,79.22,148.17,164.34
+Machining,Direct Labor,25.0,26.25,979.4,1056.3
+Machining,Direct Labor,25.0,25.99,1003.45,1023.79
+Machining,Direct Labor,25.0,25.86,1026.54,950.31
+Machining,Direct Labor,25.0,25.17,957.55,1042.11
+Machining,Direct Labor,25.0,24.91,1039.74,1072.65
+Machining,Direct Labor,25.0,27.15,1047.89,1163.11
+Machining,Direct Labor,25.0,27.43,990.8,1028.38
+Machining,Direct Labor,25.0,24.83,969.61,995.19
+Machining,Direct Labor,25.0,26.28,983.93,1025.61
+Machining,Direct Labor,25.0,27.52,1005.67,1086.33
+Machining,Direct Labor,25.0,27.17,1048.87,1102.15
+Machining,Direct Labor,25.0,27.18,1046.26,1188.66
+Machining,Raw Materials (Steel/Alloy),150.0,146.1,297.19,291.54
+Machining,Raw Materials (Steel/Alloy),150.0,144.72,304.0,329.53
+Machining,Raw Materials (Steel/Alloy),150.0,164.13,288.68,323.07
+Machining,Raw Materials (Steel/Alloy),150.0,158.89,306.12,345.2
+Machining,Raw Materials (Steel/Alloy),150.0,158.43,295.08,326.44
+Machining,Raw Materials (Steel/Alloy),150.0,151.76,286.03,316.82
+Machining,Raw Materials (Steel/Alloy),150.0,151.3,308.22,305.35
+Machining,Raw Materials (Steel/Alloy),150.0,164.46,291.59,333.47
+Machining,Raw Materials (Steel/Alloy),150.0,162.38,288.43,300.38
+Machining,Raw Materials (Steel/Alloy),150.0,167.63,299.13,282.84
+Machining,Raw Materials (Steel/Alloy),150.0,154.86,300.37,326.03
+Machining,Raw Materials (Steel/Alloy),150.0,160.32,297.08,283.56
+Machining,Machine Maintenance,75.0,79.47,148.83,138.86
+Machining,Machine Maintenance,75.0,82.73,152.87,163.69
+Machining,Machine Maintenance,75.0,81.74,150.44,166.06
+Machining,Machine Maintenance,75.0,77.6,143.51,143.7
+Machining,Machine Maintenance,75.0,77.59,153.3,142.06
+Machining,Machine Maintenance,75.0,73.04,146.46,141.57
+Machining,Machine Maintenance,75.0,80.59,146.26,154.78
+Machining,Machine Maintenance,75.0,77.55,151.1,167.65
+Machining,Machine Maintenance,75.0,76.41,154.06,154.91
+Machining,Machine Maintenance,75.0,75.76,156.88,148.42
+Machining,Machine Maintenance,75.0,72.4,154.06,141.29
+Machining,Machine Maintenance,75.0,81.92,149.06,168.27
+Packaging & Shipping,Direct Labor,25.0,26.82,1011.04,1149.88
+Packaging & Shipping,Direct Labor,25.0,25.44,1045.41,976.15
+Packaging & Shipping,Direct Labor,25.0,25.81,976.99,1011.15
+Packaging & Shipping,Direct Labor,25.0,24.44,1034.15,1149.57
+Packaging & Shipping,Direct Labor,25.0,27.81,965.47,1019.37
+Packaging & Shipping,Direct Labor,25.0,25.77,984.44,972.51
+Packaging & Shipping,Direct Labor,25.0,25.5,1020.49,1071.08
+Packaging & Shipping,Direct Labor,25.0,25.7,957.59,880.45
+Packaging & Shipping,Direct Labor,25.0,23.76,1046.77,943.47
+Packaging & Shipping,Direct Labor,25.0,24.19,981.46,1081.43
+Packaging & Shipping,Direct Labor,25.0,27.84,1029.0,1103.75
+Packaging & Shipping,Direct Labor,25.0,25.97,958.67,1092.45
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,161.84,304.17,331.47
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,160.96,304.12,348.26
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,165.54,304.4,326.71
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,143.82,305.1,277.96
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,157.5,314.98,327.25
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,154.57,294.39,273.82
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,161.14,290.78,270.08
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,153.25,308.86,335.5
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,143.9,298.65,307.8
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,158.94,304.51,301.82
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,156.8,299.43,335.74
+Packaging & Shipping,Raw Materials (Steel/Alloy),150.0,156.02,298.23,298.57
+Packaging & Shipping,Machine Maintenance,75.0,78.55,154.56,159.91
+Packaging & Shipping,Machine Maintenance,75.0,79.69,153.57,158.18
+Packaging & Shipping,Machine Maintenance,75.0,76.69,155.65,156.33
+Packaging & Shipping,Machine Maintenance,75.0,77.14,157.36,141.63
+Packaging & Shipping,Machine Maintenance,75.0,73.61,148.26,168.0
+Packaging & Shipping,Machine Maintenance,75.0,72.14,142.64,130.26
+Packaging & Shipping,Machine Maintenance,75.0,72.38,143.06,145.92
+Packaging & Shipping,Machine Maintenance,75.0,78.65,146.58,146.51
+Packaging & Shipping,Machine Maintenance,75.0,72.42,147.55,152.06
+Packaging & Shipping,Machine Maintenance,75.0,80.59,142.55,144.95
+Packaging & Shipping,Machine Maintenance,75.0,75.04,155.29,167.54
+Packaging & Shipping,Machine Maintenance,75.0,78.76,146.66,165.37

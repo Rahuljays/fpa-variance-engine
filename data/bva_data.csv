@@ -1,0 +1,301 @@
+Department,Account_Code,Line_Item,Month,Budget_Amount,Actual_Amount
+Sales,6000,Salaries & Wages,Jan,49372.7,56170.26
+Sales,6000,Salaries & Wages,Feb,51159.97,53700.81
+Sales,6000,Salaries & Wages,Mar,48280.09,45334.94
+Sales,6000,Salaries & Wages,Apr,47790.42,53360.11
+Sales,6000,Salaries & Wages,May,50505.58,54395.42
+Sales,6000,Salaries & Wages,Jun,47602.92,54385.27
+Sales,6000,Salaries & Wages,Jul,51662.21,49238.47
+Sales,6000,Salaries & Wages,Aug,48409.12,45787.83
+Sales,6000,Salaries & Wages,Sep,49021.21,50550.14
+Sales,6000,Salaries & Wages,Oct,49659.73,48309.34
+Sales,6000,Salaries & Wages,Nov,50559.26,47266.51
+Sales,6000,Salaries & Wages,Dec,48960.72,48548.99
+Sales,6100,Cloud Hosting / AWS,Jan,11947.28,13097.74
+Sales,6100,Cloud Hosting / AWS,Feb,11639.61,11972.02
+Sales,6100,Cloud Hosting / AWS,Mar,12110.9,11040.45
+Sales,6100,Cloud Hosting / AWS,Apr,12129.05,11433.22
+Sales,6100,Cloud Hosting / AWS,May,11478.06,13053.1
+Sales,6100,Cloud Hosting / AWS,Jun,12558.76,13841.0
+Sales,6100,Cloud Hosting / AWS,Jul,11765.54,10876.27
+Sales,6100,Cloud Hosting / AWS,Aug,12221.08,12343.76
+Sales,6100,Cloud Hosting / AWS,Sep,11546.45,11821.18
+Sales,6100,Cloud Hosting / AWS,Oct,11441.27,12898.08
+Sales,6100,Cloud Hosting / AWS,Nov,11710.54,12479.11
+Sales,6100,Cloud Hosting / AWS,Dec,11774.05,12127.48
+Sales,6200,Software Subscriptions,Jan,5023.36,4753.17
+Sales,6200,Software Subscriptions,Feb,5234.79,5725.73
+Sales,6200,Software Subscriptions,Mar,5219.75,5865.47
+Sales,6200,Software Subscriptions,Apr,5048.95,5707.68
+Sales,6200,Software Subscriptions,May,4794.25,4549.72
+Sales,6200,Software Subscriptions,Jun,4772.61,4683.52
+Sales,6200,Software Subscriptions,Jul,4944.34,4785.32
+Sales,6200,Software Subscriptions,Aug,5164.37,5108.53
+Sales,6200,Software Subscriptions,Sep,4890.47,5064.93
+Sales,6200,Software Subscriptions,Oct,4820.46,5305.16
+Sales,6200,Software Subscriptions,Nov,4787.28,5489.67
+Sales,6200,Software Subscriptions,Dec,5136.12,4877.67
+Sales,6300,Marketing Campaigns,Jan,19011.04,20985.63
+Sales,6300,Marketing Campaigns,Feb,20413.71,22092.78
+Sales,6300,Marketing Campaigns,Mar,20542.54,18868.55
+Sales,6300,Marketing Campaigns,Apr,19716.93,18316.38
+Sales,6300,Marketing Campaigns,May,20726.21,21883.24
+Sales,6300,Marketing Campaigns,Jun,19661.8,18008.03
+Sales,6300,Marketing Campaigns,Jul,19621.96,19254.95
+Sales,6300,Marketing Campaigns,Aug,20459.21,21674.27
+Sales,6300,Marketing Campaigns,Sep,20774.43,21149.48
+Sales,6300,Marketing Campaigns,Oct,19239.19,20745.83
+Sales,6300,Marketing Campaigns,Nov,20521.57,21348.99
+Sales,6300,Marketing Campaigns,Dec,20541.93,21023.62
+Sales,6400,Office & Admin,Jan,4009.09,4036.7
+Sales,6400,Office & Admin,Feb,3810.17,3531.92
+Sales,6400,Office & Admin,Mar,3812.57,4037.9
+Sales,6400,Office & Admin,Apr,3925.74,4032.3
+Sales,6400,Office & Admin,May,4163.03,4006.18
+Sales,6400,Office & Admin,Jun,3964.15,4316.52
+Sales,6400,Office & Admin,Jul,3891.52,3577.26
+Sales,6400,Office & Admin,Aug,3915.9,3682.14
+Sales,6400,Office & Admin,Sep,4171.88,4597.54
+Sales,6400,Office & Admin,Oct,4053.36,4531.11
+Sales,6400,Office & Admin,Nov,4121.47,3901.56
+Sales,6400,Office & Admin,Dec,4157.02,4301.84
+Engineering,6000,Salaries & Wages,Jan,51537.2,57928.99
+Engineering,6000,Salaries & Wages,Feb,49090.02,45531.63
+Engineering,6000,Salaries & Wages,Mar,48639.68,48969.3
+Engineering,6000,Salaries & Wages,Apr,51590.07,57532.36
+Engineering,6000,Salaries & Wages,May,47534.76,48850.85
+Engineering,6000,Salaries & Wages,Jun,49587.06,47381.77
+Engineering,6000,Salaries & Wages,Jul,48099.33,47349.16
+Engineering,6000,Salaries & Wages,Aug,52214.55,51212.07
+Engineering,6000,Salaries & Wages,Sep,50093.95,53888.81
+Engineering,6000,Salaries & Wages,Oct,49318.15,56367.96
+Engineering,6000,Salaries & Wages,Nov,52312.24,50373.84
+Engineering,6000,Salaries & Wages,Dec,49986.24,48747.56
+Engineering,6100,Cloud Hosting / AWS,Jan,11741.81,10675.91
+Engineering,6100,Cloud Hosting / AWS,Feb,12131.48,12442.89
+Engineering,6100,Cloud Hosting / AWS,Mar,11461.77,11114.04
+Engineering,6100,Cloud Hosting / AWS,Apr,12489.92,11988.95
+Engineering,6100,Cloud Hosting / AWS,May,11573.87,11832.7
+Engineering,6100,Cloud Hosting / AWS,Jun,12582.78,12085.93
+Engineering,6100,Cloud Hosting / AWS,Jul,12206.56,13310.1
+Engineering,6100,Cloud Hosting / AWS,Aug,11685.17,12643.98
+Engineering,6100,Cloud Hosting / AWS,Sep,11841.34,12529.04
+Engineering,6100,Cloud Hosting / AWS,Oct,12160.24,12573.0
+Engineering,6100,Cloud Hosting / AWS,Nov,11508.35,12760.75
+Engineering,6100,Cloud Hosting / AWS,Dec,11784.94,11155.97
+Engineering,6200,Software Subscriptions,Jan,4770.39,4998.05
+Engineering,6200,Software Subscriptions,Feb,5088.78,4601.01
+Engineering,6200,Software Subscriptions,Mar,5006.05,4788.9
+Engineering,6200,Software Subscriptions,Apr,5072.59,4786.45
+Engineering,6200,Software Subscriptions,May,5095.47,5078.57
+Engineering,6200,Software Subscriptions,Jun,5218.36,4875.94
+Engineering,6200,Software Subscriptions,Jul,4920.53,4568.07
+Engineering,6200,Software Subscriptions,Aug,5212.35,5834.36
+Engineering,6200,Software Subscriptions,Sep,4878.97,5196.08
+Engineering,6200,Software Subscriptions,Oct,5158.61,5358.77
+Engineering,6200,Software Subscriptions,Nov,5014.83,4816.55
+Engineering,6200,Software Subscriptions,Dec,4796.55,5392.78
+Engineering,6300,Marketing Campaigns,Jan,20800.84,22013.01
+Engineering,6300,Marketing Campaigns,Feb,19678.06,19428.2
+Engineering,6300,Marketing Campaigns,Mar,20451.91,22993.63
+Engineering,6300,Marketing Campaigns,Apr,20774.17,22747.07
+Engineering,6300,Marketing Campaigns,May,20284.06,18682.33
+Engineering,6300,Marketing Campaigns,Jun,19323.26,21731.68
+Engineering,6300,Marketing Campaigns,Jul,20212.86,18238.05
+Engineering,6300,Marketing Campaigns,Aug,19202.94,20467.95
+Engineering,6300,Marketing Campaigns,Sep,19010.12,17873.36
+Engineering,6300,Marketing Campaigns,Oct,20097.47,21564.06
+Engineering,6300,Marketing Campaigns,Nov,20303.92,19411.92
+Engineering,6300,Marketing Campaigns,Dec,20424.36,19593.34
+Engineering,6400,Office & Admin,Jan,3930.16,4270.6
+Engineering,6400,Office & Admin,Feb,4059.85,4515.8
+Engineering,6400,Office & Admin,Mar,4063.05,4234.01
+Engineering,6400,Office & Admin,Apr,3837.47,3806.5
+Engineering,6400,Office & Admin,May,3906.08,3753.73
+Engineering,6400,Office & Admin,Jun,4189.2,4181.98
+Engineering,6400,Office & Admin,Jul,4156.82,4397.02
+Engineering,6400,Office & Admin,Aug,4117.92,4223.59
+Engineering,6400,Office & Admin,Sep,4030.76,4123.99
+Engineering,6400,Office & Admin,Oct,3878.1,4190.72
+Engineering,6400,Office & Admin,Nov,3912.31,3544.86
+Engineering,6400,Office & Admin,Dec,4058.19,3832.06
+Operations,6000,Salaries & Wages,Jan,52202.29,59431.38
+Operations,6000,Salaries & Wages,Feb,52074.32,51685.83
+Operations,6000,Salaries & Wages,Mar,47577.28,53861.27
+Operations,6000,Salaries & Wages,Apr,49640.92,56673.24
+Operations,6000,Salaries & Wages,May,52318.1,58243.25
+Operations,6000,Salaries & Wages,Jun,48972.24,48789.8
+Operations,6000,Salaries & Wages,Jul,51755.68,50680.74
+Operations,6000,Salaries & Wages,Aug,48347.46,50242.7
+Operations,6000,Salaries & Wages,Sep,52180.77,56042.54
+Operations,6000,Salaries & Wages,Oct,50350.31,46538.49
+Operations,6000,Salaries & Wages,Nov,50575.04,58035.53
+Operations,6000,Salaries & Wages,Dec,48200.42,49626.3
+Operations,6100,Cloud Hosting / AWS,Jan,12452.85,13513.73
+Operations,6100,Cloud Hosting / AWS,Feb,12236.42,13161.75
+Operations,6100,Cloud Hosting / AWS,Mar,11831.39,11516.65
+Operations,6100,Cloud Hosting / AWS,Apr,12371.23,13639.64
+Operations,6100,Cloud Hosting / AWS,May,12440.49,14036.73
+Operations,6100,Cloud Hosting / AWS,Jun,12013.61,12318.51
+Operations,6100,Cloud Hosting / AWS,Jul,12357.95,13130.21
+Operations,6100,Cloud Hosting / AWS,Aug,12242.36,13453.72
+Operations,6100,Cloud Hosting / AWS,Sep,12468.01,12274.74
+Operations,6100,Cloud Hosting / AWS,Oct,11850.7,10944.07
+Operations,6100,Cloud Hosting / AWS,Nov,12093.94,10993.21
+Operations,6100,Cloud Hosting / AWS,Dec,11958.72,12385.18
+Operations,6200,Software Subscriptions,Jan,4893.27,5126.72
+Operations,6200,Software Subscriptions,Feb,4765.25,4333.22
+Operations,6200,Software Subscriptions,Mar,5161.3,5109.93
+Operations,6200,Software Subscriptions,Apr,4813.53,4960.64
+Operations,6200,Software Subscriptions,May,5135.0,4898.56
+Operations,6200,Software Subscriptions,Jun,5061.45,4663.3
+Operations,6200,Software Subscriptions,Jul,4775.84,4932.67
+Operations,6200,Software Subscriptions,Aug,5020.32,5318.31
+Operations,6200,Software Subscriptions,Sep,5113.05,5849.14
+Operations,6200,Software Subscriptions,Oct,5008.15,4911.69
+Operations,6200,Software Subscriptions,Nov,5147.59,4981.37
+Operations,6200,Software Subscriptions,Dec,4969.49,4570.01
+Operations,6300,Marketing Campaigns,Jan,19050.7,21730.41
+Operations,6300,Marketing Campaigns,Feb,20671.96,22201.55
+Operations,6300,Marketing Campaigns,Mar,19817.91,18694.7
+Operations,6300,Marketing Campaigns,Apr,19312.87,18589.81
+Operations,6300,Marketing Campaigns,May,20098.45,21679.18
+Operations,6300,Marketing Campaigns,Jun,20320.39,19710.45
+Operations,6300,Marketing Campaigns,Jul,20909.73,22676.06
+Operations,6300,Marketing Campaigns,Aug,20108.71,21173.07
+Operations,6300,Marketing Campaigns,Sep,19839.2,19083.98
+Operations,6300,Marketing Campaigns,Oct,19711.95,21475.41
+Operations,6300,Marketing Campaigns,Nov,19028.79,17678.09
+Operations,6300,Marketing Campaigns,Dec,19092.01,17377.2
+Operations,6400,Office & Admin,Jan,4142.18,4456.64
+Operations,6400,Office & Admin,Feb,3989.67,3688.28
+Operations,6400,Office & Admin,Mar,3996.65,4070.06
+Operations,6400,Office & Admin,Apr,3869.28,3902.03
+Operations,6400,Office & Admin,May,3959.4,4173.06
+Operations,6400,Office & Admin,Jun,4054.04,3694.55
+Operations,6400,Office & Admin,Jul,3949.85,4172.87
+Operations,6400,Office & Admin,Aug,4001.25,4457.89
+Operations,6400,Office & Admin,Sep,4063.48,3822.65
+Operations,6400,Office & Admin,Oct,3828.23,4060.24
+Operations,6400,Office & Admin,Nov,3810.6,3987.58
+Operations,6400,Office & Admin,Dec,4176.09,4359.29
+Finance,6000,Salaries & Wages,Jan,49440.85,52447.94
+Finance,6000,Salaries & Wages,Feb,49791.26,51603.88
+Finance,6000,Salaries & Wages,Mar,52207.32,52025.94
+Finance,6000,Salaries & Wages,Apr,52305.95,58914.16
+Finance,6000,Salaries & Wages,May,48478.96,44471.7
+Finance,6000,Salaries & Wages,Jun,48003.89,43422.18
+Finance,6000,Salaries & Wages,Jul,47972.21,51366.33
+Finance,6000,Salaries & Wages,Aug,47855.94,46886.57
+Finance,6000,Salaries & Wages,Sep,51724.38,46852.87
+Finance,6000,Salaries & Wages,Oct,51572.34,50049.09
+Finance,6000,Salaries & Wages,Nov,48090.82,51658.41
+Finance,6000,Salaries & Wages,Dec,50644.71,56690.07
+Finance,6100,Cloud Hosting / AWS,Jan,12282.09,13520.98
+Finance,6100,Cloud Hosting / AWS,Feb,11738.44,11085.31
+Finance,6100,Cloud Hosting / AWS,Mar,12300.74,13551.83
+Finance,6100,Cloud Hosting / AWS,Apr,12588.61,12628.32
+Finance,6100,Cloud Hosting / AWS,May,11846.42,12961.21
+Finance,6100,Cloud Hosting / AWS,Jun,11808.96,13375.89
+Finance,6100,Cloud Hosting / AWS,Jul,12430.1,12520.19
+Finance,6100,Cloud Hosting / AWS,Aug,12301.05,13391.36
+Finance,6100,Cloud Hosting / AWS,Sep,11523.75,12971.57
+Finance,6100,Cloud Hosting / AWS,Oct,12006.3,13286.35
+Finance,6100,Cloud Hosting / AWS,Nov,11784.06,13243.88
+Finance,6100,Cloud Hosting / AWS,Dec,11867.04,10712.49
+Finance,6200,Software Subscriptions,Jan,5202.69,4801.16
+Finance,6200,Software Subscriptions,Feb,4909.66,5584.81
+Finance,6200,Software Subscriptions,Mar,5225.3,5451.87
+Finance,6200,Software Subscriptions,Apr,5065.92,5127.27
+Finance,6200,Software Subscriptions,May,4896.61,4809.28
+Finance,6200,Software Subscriptions,Jun,5086.26,5534.33
+Finance,6200,Software Subscriptions,Jul,5145.79,5647.01
+Finance,6200,Software Subscriptions,Aug,4795.6,4908.8
+Finance,6200,Software Subscriptions,Sep,4778.78,4957.42
+Finance,6200,Software Subscriptions,Oct,4970.77,5576.83
+Finance,6200,Software Subscriptions,Nov,4925.46,4577.06
+Finance,6200,Software Subscriptions,Dec,4821.5,5257.25
+Finance,6300,Marketing Campaigns,Jan,20236.44,18724.38
+Finance,6300,Marketing Campaigns,Feb,19168.21,20610.47
+Finance,6300,Marketing Campaigns,Mar,19145.53,21164.71
+Finance,6300,Marketing Campaigns,Apr,20412.48,18786.37
+Finance,6300,Marketing Campaigns,May,19169.68,21981.1
+Finance,6300,Marketing Campaigns,Jun,19748.54,19603.6
+Finance,6300,Marketing Campaigns,Jul,20625.6,23447.43
+Finance,6300,Marketing Campaigns,Aug,20972.0,22824.76
+Finance,6300,Marketing Campaigns,Sep,19752.52,18189.6
+Finance,6300,Marketing Campaigns,Oct,20554.29,21368.27
+Finance,6300,Marketing Campaigns,Nov,19848.44,22361.03
+Finance,6300,Marketing Campaigns,Dec,19222.39,19667.51
+Finance,6400,Office & Admin,Jan,3804.54,3869.85
+Finance,6400,Office & Admin,Feb,3822.52,3553.82
+Finance,6400,Office & Admin,Mar,3847.01,4086.69
+Finance,6400,Office & Admin,Apr,4098.42,4286.3
+Finance,6400,Office & Admin,May,4184.87,4158.58
+Finance,6400,Office & Admin,Jun,3914.28,4372.84
+Finance,6400,Office & Admin,Jul,3889.44,4437.09
+Finance,6400,Office & Admin,Aug,3804.86,4346.94
+Finance,6400,Office & Admin,Sep,3817.26,4285.97
+Finance,6400,Office & Admin,Oct,4011.08,4605.69
+Finance,6400,Office & Admin,Nov,3829.52,3976.82
+Finance,6400,Office & Admin,Dec,4187.72,4316.6
+Marketing,6000,Salaries & Wages,Jan,50646.99,54391.69
+Marketing,6000,Salaries & Wages,Feb,49772.71,52604.25
+Marketing,6000,Salaries & Wages,Mar,50421.57,56738.87
+Marketing,6000,Salaries & Wages,Apr,47727.23,46306.91
+Marketing,6000,Salaries & Wages,May,52252.06,58656.38
+Marketing,6000,Salaries & Wages,Jun,49778.28,52517.74
+Marketing,6000,Salaries & Wages,Jul,48886.91,46297.38
+Marketing,6000,Salaries & Wages,Aug,49818.49,49237.51
+Marketing,6000,Salaries & Wages,Sep,50418.28,46356.26
+Marketing,6000,Salaries & Wages,Oct,52371.97,60047.23
+Marketing,6000,Salaries & Wages,Nov,50990.81,52725.72
+Marketing,6000,Salaries & Wages,Dec,49047.64,54121.56
+Marketing,6100,Cloud Hosting / AWS,Jan,12221.68,11496.37
+Marketing,6100,Cloud Hosting / AWS,Feb,12493.11,13812.81
+Marketing,6100,Cloud Hosting / AWS,Mar,12539.76,13560.87
+Marketing,6100,Cloud Hosting / AWS,Apr,12136.1,12191.45
+Marketing,6100,Cloud Hosting / AWS,May,12519.27,13977.97
+Marketing,6100,Cloud Hosting / AWS,Jun,11454.26,10384.34
+Marketing,6100,Cloud Hosting / AWS,Jul,11851.76,13068.2
+Marketing,6100,Cloud Hosting / AWS,Aug,12584.73,11799.5
+Marketing,6100,Cloud Hosting / AWS,Sep,12112.96,12055.09
+Marketing,6100,Cloud Hosting / AWS,Oct,12563.9,13952.58
+Marketing,6100,Cloud Hosting / AWS,Nov,12405.99,12619.05
+Marketing,6100,Cloud Hosting / AWS,Dec,11897.78,11521.24
+Marketing,6200,Software Subscriptions,Jan,4778.19,5333.32
+Marketing,6200,Software Subscriptions,Feb,5156.45,5929.55
+Marketing,6200,Software Subscriptions,Mar,5248.32,5452.26
+Marketing,6200,Software Subscriptions,Apr,5134.49,5833.77
+Marketing,6200,Software Subscriptions,May,5174.82,4977.34
+Marketing,6200,Software Subscriptions,Jun,4975.27,4638.4
+Marketing,6200,Software Subscriptions,Jul,5227.03,5496.45
+Marketing,6200,Software Subscriptions,Aug,4864.32,5194.73
+Marketing,6200,Software Subscriptions,Sep,5059.06,5006.15
+Marketing,6200,Software Subscriptions,Oct,4806.78,5133.13
+Marketing,6200,Software Subscriptions,Nov,5010.15,5476.5
+Marketing,6200,Software Subscriptions,Dec,5010.08,5576.45
+Marketing,6300,Marketing Campaigns,Jan,20103.81,20912.68
+Marketing,6300,Marketing Campaigns,Feb,20753.31,20771.38
+Marketing,6300,Marketing Campaigns,Mar,19268.03,17479.87
+Marketing,6300,Marketing Campaigns,Apr,20510.27,21639.93
+Marketing,6300,Marketing Campaigns,May,20408.16,19453.9
+Marketing,6300,Marketing Campaigns,Jun,19272.74,17415.55
+Marketing,6300,Marketing Campaigns,Jul,19701.18,20636.58
+Marketing,6300,Marketing Campaigns,Aug,19784.49,19969.84
+Marketing,6300,Marketing Campaigns,Sep,20808.32,20539.14
+Marketing,6300,Marketing Campaigns,Oct,20027.98,21948.93
+Marketing,6300,Marketing Campaigns,Nov,19793.09,20892.03
+Marketing,6300,Marketing Campaigns,Dec,20724.73,23571.89
+Marketing,6400,Office & Admin,Jan,3858.83,4366.83
+Marketing,6400,Office & Admin,Feb,3996.85,3855.2
+Marketing,6400,Office & Admin,Mar,3983.65,4561.32
+Marketing,6400,Office & Admin,Apr,3997.05,3925.85
+Marketing,6400,Office & Admin,May,4053.36,3891.37
+Marketing,6400,Office & Admin,Jun,3830.35,3570.72
+Marketing,6400,Office & Admin,Jul,3851.22,3612.35
+Marketing,6400,Office & Admin,Aug,3855.53,4087.71
+Marketing,6400,Office & Admin,Sep,3872.75,3820.15
+Marketing,6400,Office & Admin,Oct,4158.72,4235.61
+Marketing,6400,Office & Admin,Nov,4067.02,3835.53
+Marketing,6400,Office & Admin,Dec,3876.92,3528.84
